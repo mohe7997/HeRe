@@ -1,0 +1,5 @@
+public static void class He(){
+  public void static main(String []args){
+      System.out.print("hello,world");
+  }
+}
